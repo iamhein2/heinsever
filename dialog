@@ -1,7 +1,8 @@
-{"title":"close",
-"mes":"sever ပြင်ဆင်မှုများပြုလုပ်နေပါသဖြင့် လတ်တလောတွင် video တွေ တိုက်ရိုက်ကြည့်ရှု၍မရနိုင်ပါ",
-"button":"Ok",
-"blink":"",
+{"title":"Please UPDATE New Version",
+"mes":"Video တွေကြည့်မရဖြစ်နေတာကို ပြုပြင်ပေးထားတဲ့ ဗားရှင်း v23 ကို updateပြုလုပ်ပါ
+(ဗားရှင်းအသစ်ကို updateတင်ပါ)",
+"button":"Update Now",
+"blink":"https://bluetvpro.com/",
 "review":"",
 "retext":"Playstore တွင် 5 stars ပေးခြင်းဖြင့် ကူညီပေးကြပါ",
 "miniblue":"https://raw.githubusercontent.com/apppro007/photo/main/PicsArt_02-21-12.35.57.jpg",
